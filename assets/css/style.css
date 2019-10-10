@@ -109,15 +109,15 @@ img
     margin: 20px 0;
     overflow: auto;
     display: inline-block;
-  }
+}
 
-  .tile img 
-  {
+.tile img 
+{
     width: 100%;
-  }
+}
 
-  .tile h3 
-  {
+.tile h3 
+{
     background-color: #4aaaa5;
     position: absolute;
     bottom: 20px;
@@ -125,4 +125,28 @@ img
     padding: 15px 0;
     margin-bottom: 0;
     text-align: center;
-  }
+}
+
+.main-cont
+{
+    background-color: white;
+    overflow: auto;
+    margin-top: 10px;
+}
+
+textarea
+{
+    width: 80%;
+    height: 200px;
+    position: relative;
+    left: 10px;
+}
+
+button
+{
+    background-color: #4aaaa5;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    margin: 45px;
+}
